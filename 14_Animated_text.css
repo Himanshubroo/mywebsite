@@ -8,9 +8,9 @@
 .container {
     width: 100%;
     height: 100vh;
-    /*background: linear-gradient( #9708BF 30%,#036EEA ,#334BB9 ) ;*/
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), transparent,
-            url(background.png));
+    background: linear-gradient( #9708BF ,#036EEA ,#334BB9 ) ;
+    /*background-image: linear-gradient(rgba(0, 0, 0, 0.3), transparent,
+            url(background.png));*/
     background-size: cover;
     background-position: center;
     padding: 0 8%;
